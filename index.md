@@ -1,4 +1,4 @@
-# say to show
+# say to Show
 
 吴选秀， 吾喜欢的秀，遥距2000公里的朋友
 
